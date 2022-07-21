@@ -1,6 +1,6 @@
-## Christopher's Crocheted Creations
+# Christopher's Crocheted Creations
 
-You can use the [editor on GitHub](https://github.com/chshbr/Christopherscrochetedcreations/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a place where people who want to buy from me come to checkout my products.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
