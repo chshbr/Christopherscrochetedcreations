@@ -7,9 +7,19 @@ This is a place where people who want to buy from me come to checkout my product
 
 This is where you *look*.
 
-### Markdown
+Here are some pictures of my products.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Chubby
+
+blah
+
+$5-7
+
+### Hat
+
+blahblah
+
+$7
 
 ```markdown
 Syntax highlighted code block
