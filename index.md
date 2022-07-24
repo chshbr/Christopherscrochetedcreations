@@ -10,12 +10,12 @@ Here are some pictures of my products.
 
 ### Chubby
 
-![Chubby](assets/IMG_20220721_120020000.jpg)
+![Chubby](images/IMG_20220721_120020000.jpg)
 
 $5-7
 
 ### Hat
 
-![Hat](assets/IMG_20220721_132829821.jpg)
+![Hat](images/IMG_20220721_132829821.jpg)
 
 $7
